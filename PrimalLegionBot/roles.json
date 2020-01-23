@@ -1,0 +1,28 @@
+{
+    "Roles" : [
+        {
+            "catagoryName": "Test Catagory",
+            "catagoryRoles": ["Artist",
+                              "role2", 
+                              "role3", 
+                              "role4", 
+                              "role5"]
+        },
+        {
+            "catagoryName": "Test Catagory 2",
+            "catagoryRoles": ["role6", "role7", "role8", "role9", "role10"]
+        },
+        {
+            "catagoryName": "Test Catagory 3",
+            "catagoryRoles": ["role11", "role12", "role13", "role14", "role15"]
+        },
+        {
+            "catagoryName": "Test Catagory 4",
+            "catagoryRoles": ["role16", "role17", "role18", "role19", "role20"]
+        },
+        {
+            "catagoryName": "Test Catagory 5",
+            "catagoryRoles": ["role21", "role22", "role23", "role24", "role25"]
+        }
+    ]
+}

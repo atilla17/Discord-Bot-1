@@ -1,0 +1,24 @@
+
+-----[TRANSFER]-----Wed Aug 21 2019 15:28:31 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 61600
+    white#2032 Start balance: 2878.976758
+    Amount transferred:100 FROM Atilla#8769 150104945788452864 TO white#2032 232974806591471617
+    Atilla#8769 end balance: 61500
+    white#2032 end balance: 2978.976758
+    Files updated: 232974806591471617.json , 150104945788452864.json
+    Confirmation code: D10DP5GPECVRWADP7F5K
+
+-----[TRANSFER]-----Wed Aug 21 2019 15:28:37 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: white#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: white#2032  ID: 232974806591471617
+    white#2032 Start balance: 2878.976758
+    Atilla#8769 Start balance: 61600
+    Amount transferred:1 FROM white#2032 232974806591471617 TO Atilla#8769 150104945788452864
+    white#2032 end balance: 2877.976758
+    Atilla#8769 end balance: 61601
+    Files updated: 150104945788452864.json , 232974806591471617.json
+    Confirmation code: 62H44ZLOBIJ59PBIS2JX

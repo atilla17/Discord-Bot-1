@@ -1,0 +1,42 @@
+
+-----------------------Thu Jun 06 2019 00:39:33 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfSysDeletePoints.js
+    Target user: Atilla#8769  ID: 150104945788452864
+    Account balance before command: 4883
+    Ammount Added:1000
+    New Account balance: 3883
+    File updated: 150104945788452864.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----------------------Thu Jun 06 2019 00:54:07 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfSysDeletePoints.js
+    Target user: Atilla#8769  ID: 150104945788452864
+    Account balance before command: 3883
+    Ammount Added:1000
+    New Account balance: 2883
+    File updated: 150104945788452864.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----------------------Thu Jun 06 2019 08:02:37 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfSysSpawnPoints.js
+    Target user: Atilla#8769  ID: 150104945788452864
+    Account balance before command: 2883
+    Ammount Added:100
+    New Account balance: 2983
+    File updated: 150104945788452864.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----[TRANSFER]-----Thu Jun 06 2019 23:57:49 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 1682
+    atilla#8839 Start balance: 1682
+    Ammount transfered:100 FROM Atilla#8769 150104945788452864 TO atilla#8839 452229341334470678
+    Atilla#8769 end balance: 1582
+    atilla#8839end balance: 1401
+    Files updated: 452229341334470678.json , 150104945788452864.json
+    Confirmation code: ZEBKPFREGZH6C34OQSJ3

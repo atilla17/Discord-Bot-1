@@ -1,0 +1,378 @@
+
+-----[TRANSFER]-----Fri Jun 07 2019 00:03:13 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 1582
+    atilla#8839 Start balance: 1582
+    Ammount transfered:100 FROM Atilla#8769 150104945788452864 TO atilla#8839 452229341334470678
+    Atilla#8769 end balance: 1482
+    atilla#8839end balance: 1501
+    Files updated: 452229341334470678.json , 150104945788452864.json
+    Confirmation code: 0BAZZB8MKJR437J2MFG3
+
+-----[TRANSFER]-----Fri Jun 07 2019 00:05:15 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 1482
+    atilla#8839 Start balance: 1501
+    Ammount transfered:100 FROM Atilla#8769 150104945788452864 TO atilla#8839 452229341334470678
+    Atilla#8769 end balance: 1382
+    atilla#8839end balance: 1601
+    Files updated: 452229341334470678.json , 150104945788452864.json
+    Confirmation code: 8RBY6D5AXU36I1NFGGNV
+
+-----[TRANSFER]-----Fri Jun 07 2019 00:19:49 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 1382
+    atilla#8839 Start balance: 1601
+    Ammount transfered:100 FROM Atilla#8769 150104945788452864 TO atilla#8839 452229341334470678
+    Atilla#8769 end balance: 1282
+    atilla#8839end balance: 1701
+    Files updated: 452229341334470678.json , 150104945788452864.json
+    Confirmation code: MPLBR4QVOMFF9JCHH1OO
+
+-----[TRANSFER]-----Fri Jun 07 2019 00:25:11 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 1282
+    atilla#8839 Start balance: 1701
+    Ammount transfered:100 FROM Atilla#8769 150104945788452864 TO atilla#8839 452229341334470678
+    Atilla#8769 end balance: 1182
+    atilla#8839end balance: 1801
+    Files updated: 452229341334470678.json , 150104945788452864.json
+    Confirmation code: 0LF4V1M2I4LALZBK6019
+
+-----[TRANSFER]-----Fri Jun 07 2019 00:48:25 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 1182
+    Agent Pancakez#7843 Start balance: 0
+    Ammount transfered:1000 FROM Atilla#8769 150104945788452864 TO Agent Pancakez#7843 162274185941483520
+    Atilla#8769 end balance: 182
+    Agent Pancakez#7843end balance: 1000
+    Files updated: 162274185941483520.json , 150104945788452864.json
+    Confirmation code: 2Q4V9Y1MUXR5ETWA8LLW
+
+-----[TRANSFER]-----Fri Jun 07 2019 00:54:16 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 182
+    atilla#8839 Start balance: 1801
+    Ammount transfered:1 FROM Atilla#8769 150104945788452864 TO atilla#8839 452229341334470678
+    Atilla#8769 end balance: 181
+    atilla#8839end balance: 1802
+    Files updated: 452229341334470678.json , 150104945788452864.json
+    Confirmation code: 9R0T68VAI7L33AQ5SA99
+
+-----[TRANSFER]-----Fri Jun 07 2019 00:55:39 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 181
+    atilla#8839 Start balance: 1802
+    Ammount transfered:1 FROM Atilla#8769 150104945788452864 TO atilla#8839 452229341334470678
+    Atilla#8769 end balance: 180
+    atilla#8839end balance: 1803
+    Files updated: 452229341334470678.json , 150104945788452864.json
+    Confirmation code: TUUENJYJJCVCZ74SLPGB
+
+-----[TRANSFER]-----Fri Jun 07 2019 00:57:26 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 180
+    atilla#8839 Start balance: 1803
+    Ammount transfered:1 FROM Atilla#8769 150104945788452864 TO atilla#8839 452229341334470678
+    Atilla#8769 end balance: 179
+    atilla#8839end balance: 1804
+    Files updated: 452229341334470678.json , 150104945788452864.json
+    Confirmation code: IFJ7EPG16M9EEQU7BD6U
+
+-----[TRANSFER]-----Fri Jun 07 2019 14:04:19 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 179
+    atilla#8839 Start balance: 1804
+    Ammount transfered:10 FROM Atilla#8769 150104945788452864 TO atilla#8839 452229341334470678
+    Atilla#8769 end balance: 169
+    atilla#8839end balance: 1814
+    Files updated: 452229341334470678.json , 150104945788452864.json
+    Confirmation code: U86UJ20PCG06DJ51AMXD
+
+-----[TRANSFER]-----Fri Jun 07 2019 14:53:17 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 169
+    atilla#8839 Start balance: 1814
+    Ammount transfered:100 FROM Atilla#8769 150104945788452864 TO atilla#8839 452229341334470678
+    Atilla#8769 end balance: 69
+    atilla#8839end balance: 1914
+    Files updated: 452229341334470678.json , 150104945788452864.json
+    Confirmation code: C6JJ820U3ONFH13GLVVO
+
+-----------------------Fri Jun 07 2019 15:03:55 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfSysSpawnPoints.js
+    Target user: Atilla#8769  ID: 150104945788452864
+    Account balance before command: 69
+    Ammount Added:10000
+    New Account balance: 10069
+    File updated: 150104945788452864.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----------------------Fri Jun 07 2019 15:05:08 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfSysDeletePoints.js
+    Target user: Atilla#8769  ID: 150104945788452864
+    Account balance before command: 10069
+    Ammount Added:1000
+    New Account balance: 9069
+    File updated: 150104945788452864.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----[TRANSFER]-----Fri Jun 07 2019 16:48:50 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 9069
+    White#2032 Start balance: 0
+    Ammount transfered:3000 FROM Atilla#8769 150104945788452864 TO White#2032 232974806591471617
+    Atilla#8769 end balance: 6069
+    White#2032end balance: 3000
+    Files updated: 232974806591471617.json , 150104945788452864.json
+    Confirmation code: URC22RC6BIZ3U7DTNG9L
+
+-----[TRANSFER]-----Fri Jun 07 2019 16:53:17 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 3000
+    Atilla#8769 Start balance: 6069
+    Ammount transfered:200 FROM White#2032 232974806591471617 TO Atilla#8769 150104945788452864
+    White#2032 end balance: 2800
+    Atilla#8769end balance: 6269
+    Files updated: 150104945788452864.json , 232974806591471617.json
+    Confirmation code: 1K679RXIG5P4U2GBKJVZ
+
+-----------------------Fri Jun 07 2019 16:58:41 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfSysSpawnPoints.js
+    Target user: White#2032  ID: 232974806591471617
+    Account balance before command: 2800
+    Ammount Added:100
+    New Account balance: 2900
+    File updated: 232974806591471617.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----------------------Fri Jun 07 2019 16:59:27 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfSysDeletePoints.js
+    Target user: White#2032  ID: 232974806591471617
+    Account balance before command: 2900
+    Ammount Added:100
+    New Account balance: 2800
+    File updated: 232974806591471617.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----------------------Fri Jun 07 2019 17:00:55 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfSysSpawnPoints.js
+    Target user: Atilla#8769  ID: 150104945788452864
+    Account balance before command: 6269
+    Ammount Added:100
+    New Account balance: 6369
+    File updated: 150104945788452864.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----------------------Fri Jun 07 2019 17:05:58 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfSysDeletePoints.js
+    Target user: Atilla#8769  ID: 150104945788452864
+    Account balance before command: 6369
+    Ammount Added:10
+    New Account balance: 6359
+    File updated: 150104945788452864.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----------------------Fri Jun 07 2019 17:06:47 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfSysDeletePoints.js
+    Target user: Atilla#8769  ID: 150104945788452864
+    Account balance before command: 6359
+    Ammount Added:10
+    New Account balance: 6349
+    File updated: 150104945788452864.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----[TRANSFER]-----Fri Jun 07 2019 17:16:39 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 2800
+    Atilla#8769 Start balance: 6349
+    Ammount transfered:1.5 FROM White#2032 232974806591471617 TO Atilla#8769 150104945788452864
+    White#2032 end balance: 2798.5
+    Atilla#8769end balance: 6350.5
+    Files updated: 150104945788452864.json , 232974806591471617.json
+    Confirmation code: SF378YHXIF3VLYK3CQVS
+
+-----[TRANSFER]-----Fri Jun 07 2019 17:17:06 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 2798.5
+    Atilla#8769 Start balance: 6350.5
+    Ammount transfered:1.523242 FROM White#2032 232974806591471617 TO Atilla#8769 150104945788452864
+    White#2032 end balance: 2796.976758
+    Atilla#8769end balance: 6352.023242
+    Files updated: 150104945788452864.json , 232974806591471617.json
+    Confirmation code: 0BBFJX17PHSY8UG2IFQV
+
+-----[TRANSFER]-----Fri Jun 07 2019 17:19:31 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 2796.976758
+    Charliebeetle#3860 Start balance: 0
+    Ammount transfered:20 FROM White#2032 232974806591471617 TO Charliebeetle#3860 210844199145308161
+    White#2032 end balance: 2776.976758
+    Charliebeetle#3860end balance: 20
+    Files updated: 210844199145308161.json , 232974806591471617.json
+    Confirmation code: IMUWGFFVCO5MFLD31CR8
+
+-----[TRANSFER]-----Fri Jun 07 2019 17:19:38 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 2776.976758
+    Charliebeetle#3860 Start balance: 20
+    Ammount transfered:1 FROM White#2032 232974806591471617 TO Charliebeetle#3860 210844199145308161
+    White#2032 end balance: 2775.976758
+    Charliebeetle#3860end balance: 21
+    Files updated: 210844199145308161.json , 232974806591471617.json
+    Confirmation code: PAK8Z1HKG14G1X5OU89W
+
+-----[TRANSFER]-----Fri Jun 07 2019 17:19:51 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 2775.976758
+    Charliebeetle#3860 Start balance: 21
+    Ammount transfered:1 FROM White#2032 232974806591471617 TO Charliebeetle#3860 210844199145308161
+    White#2032 end balance: 2774.976758
+    Charliebeetle#3860end balance: 22
+    Files updated: 210844199145308161.json , 232974806591471617.json
+    Confirmation code: V30VFFPPDAMOOU5TF3JX
+
+-----[TRANSFER]-----Fri Jun 07 2019 17:19:54 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 2774.976758
+    Charliebeetle#3860 Start balance: 22
+    Ammount transfered:1 FROM White#2032 232974806591471617 TO Charliebeetle#3860 210844199145308161
+    White#2032 end balance: 2773.976758
+    Charliebeetle#3860end balance: 23
+    Files updated: 210844199145308161.json , 232974806591471617.json
+    Confirmation code: STH4BIUT7M1QJ44Z7EWO
+
+-----[TRANSFER]-----Fri Jun 07 2019 17:19:58 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 2773.976758
+    Charliebeetle#3860 Start balance: 23
+    Ammount transfered:1 FROM White#2032 232974806591471617 TO Charliebeetle#3860 210844199145308161
+    White#2032 end balance: 2772.976758
+    Charliebeetle#3860end balance: 24
+    Files updated: 210844199145308161.json , 232974806591471617.json
+    Confirmation code: HPN6ZC8IK2IDXO5PUTSL
+
+-----[TRANSFER]-----Fri Jun 07 2019 17:20:01 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 2772.976758
+    Charliebeetle#3860 Start balance: 24
+    Ammount transfered:1 FROM White#2032 232974806591471617 TO Charliebeetle#3860 210844199145308161
+    White#2032 end balance: 2771.976758
+    Charliebeetle#3860end balance: 25
+    Files updated: 210844199145308161.json , 232974806591471617.json
+    Confirmation code: GMUQ93SVW0E8VX6GQJ65
+
+-----[TRANSFER]-----Fri Jun 07 2019 17:20:18 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 2771.976758
+    Charliebeetle#3860 Start balance: 25
+    Ammount transfered:1 FROM White#2032 232974806591471617 TO Charliebeetle#3860 210844199145308161
+    White#2032 end balance: 2770.976758
+    Charliebeetle#3860end balance: 26
+    Files updated: 210844199145308161.json , 232974806591471617.json
+    Confirmation code: 3KHZ1EI1KZZ56ZW1MSPF
+
+-----[TRANSFER]-----Fri Jun 07 2019 17:20:21 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 2770.976758
+    Charliebeetle#3860 Start balance: 26
+    Ammount transfered:1 FROM White#2032 232974806591471617 TO Charliebeetle#3860 210844199145308161
+    White#2032 end balance: 2769.976758
+    Charliebeetle#3860end balance: 27
+    Files updated: 210844199145308161.json , 232974806591471617.json
+    Confirmation code: N0AOPQQRNXQJEJMHPGVK
+
+-----[TRANSFER]-----Fri Jun 07 2019 17:20:24 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfTransferPoints.js
+    Sender: White#2032  ID: 232974806591471617
+    White#2032 Start balance: 2769.976758
+    Charliebeetle#3860 Start balance: 27
+    Ammount transfered:1 FROM White#2032 232974806591471617 TO Charliebeetle#3860 210844199145308161
+    White#2032 end balance: 2768.976758
+    Charliebeetle#3860end balance: 28
+    Files updated: 210844199145308161.json , 232974806591471617.json
+    Confirmation code: W606BG428ZIULLKSSZ8X
+
+-----------------------Fri Jun 07 2019 17:21:14 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: White#2032  ID: 232974806591471617
+    Command file executed: prfSysDeletePoints.js
+    Target user: Charliebeetle#3860  ID: 210844199145308161
+    Account balance before command: 28
+    Ammount Added:28
+    New Account balance: 0
+    File updated: 210844199145308161.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----------------------Fri Jun 07 2019 18:31:33 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfSysSpawnPoints.js
+    Target user: Atilla#8769  ID: 150104945788452864
+    Account balance before command: 6352.023242
+    Amount Added:100
+    New Account balance: 6452.023242
+    File updated: 150104945788452864.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----[TRANSFER]-----Fri Jun 07 2019 18:48:54 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfTransferPoints.js
+    Sender: Atilla#8769  ID: 150104945788452864
+    Atilla#8769 Start balance: 6452.023242
+    White#2032 Start balance: 2768.976758
+    Amount transferred:10 FROM Atilla#8769 150104945788452864 TO White#2032 232974806591471617
+    Atilla#8769 end balance: 6442.023242
+    White#2032 end balance: 2778.976758
+    Files updated: 232974806591471617.json , 150104945788452864.json
+    Confirmation code: SKNN98FLVGESM86C6HN6

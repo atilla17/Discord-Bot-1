@@ -1,0 +1,450 @@
+
+ ---------[Task]--------Thu Aug 22 2019 15:28:04 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw a cat
+ Atilla#8769's Balance before task: 62201
+ Atilla#8769's Balance after task: 62276
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:29:39 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character being a meme!
+ Atilla#8769's Balance before task: 62276
+ Atilla#8769's Balance after task: 62351
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:30:12 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character as a younger version of theirself!
+ Atilla#8769's Balance before task: 62351
+ Atilla#8769's Balance after task: 62426
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:32:18 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character in their favorite time and place!
+ Atilla#8769's Balance before task: 62426
+ Atilla#8769's Balance after task: 62501
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:32:44 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character as a younger version of theirself!
+ Atilla#8769's Balance before task: 62501
+ Atilla#8769's Balance after task: 62576
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:33:17 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character with their favorite food!
+ Atilla#8769's Balance before task: 62576
+ Atilla#8769's Balance after task: 62651
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:33:45 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character after a fight.
+ Atilla#8769's Balance before task: 62651
+ Atilla#8769's Balance after task: 62726
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:41:25 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character dressed up as their favorite character!
+ Atilla#8769's Balance before task: 62726
+ Atilla#8769's Balance after task: 62801
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:41:55 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character as a younger version of theirself!
+ Atilla#8769's Balance before task: 62801
+ Atilla#8769's Balance after task: 62876
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:43:12 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character chasing a laser dot!
+ Atilla#8769's Balance before task: 62876
+ Atilla#8769's Balance after task: 62951
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:50:46 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character with your favorite animal!
+ Atilla#8769's Balance before task: 62951
+ Atilla#8769's Balance after task: 63026
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:52:36 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character with their favorite food!
+ Atilla#8769's Balance before task: 63026
+ Atilla#8769's Balance after task: 63101
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:52:57 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Design a new character based on an element!
+ Atilla#8769's Balance before task: 63101
+ Atilla#8769's Balance after task: 63176
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:53:11 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: white#2032 ID: 232974806591471617
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character being a meme!
+ white#2032's Balance before task: 3177.976758
+ white#2032's Balance after task: 3252.976758
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:53:51 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw two animals combined to create a new one!
+ Atilla#8769's Balance before task: 63176
+ Atilla#8769's Balance after task: 63251
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:54:17 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character with your favorite animal!
+ Atilla#8769's Balance before task: 63251
+ Atilla#8769's Balance after task: 63326
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:54:35 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw an animal version of your favorite game character!
+ Atilla#8769's Balance before task: 63326
+ Atilla#8769's Balance after task: 63401
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:54:53 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character during their favorite season!
+ Atilla#8769's Balance before task: 63401
+ Atilla#8769's Balance after task: 63476
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:55:24 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character as a younger version of theirself!
+ Atilla#8769's Balance before task: 63476
+ Atilla#8769's Balance after task: 63551
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:55:49 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: white#2032 ID: 232974806591471617
+ Task checked by: white#2032 ID: 232974806591471617
+ Task completed: Draw your character wearing something funny!
+ white#2032's Balance before task: 3252.976758
+ white#2032's Balance after task: 3327.976758
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:55:59 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: white#2032 ID: 232974806591471617
+ Task checked by: white#2032 ID: 232974806591471617
+ Task completed: Draw your character in your preferred career!
+ white#2032's Balance before task: 3327.976758
+ white#2032's Balance after task: 3402.976758
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 15:56:12 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: white#2032 ID: 232974806591471617
+ Task checked by: white#2032 ID: 232974806591471617
+ Task completed: Design a new character based on a candy!
+ white#2032's Balance before task: 3402.976758
+ white#2032's Balance after task: 3477.976758
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 16:19:49 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character in your preferred career!
+ Atilla#8769's Balance before task: 63551
+ Atilla#8769's Balance after task: 63626
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 16:20:13 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Design a new character based on a mythical creature!
+ Atilla#8769's Balance before task: 63626
+ Atilla#8769's Balance after task: 63701
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 16:20:44 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Design a new character based on an element!
+ Atilla#8769's Balance before task: 63701
+ Atilla#8769's Balance after task: 63776
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 16:24:43 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character after a fight.
+ Atilla#8769's Balance before task: 63776
+ Atilla#8769's Balance after task: 63851
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 16:25:00 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character in a formal outfit!
+ Atilla#8769's Balance before task: 63851
+ Atilla#8769's Balance after task: 63926
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 16:25:18 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Design a new character based on a mythical creature!
+ Atilla#8769's Balance before task: 63926
+ Atilla#8769's Balance after task: 64001
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 16:25:47 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character with their favorite candy!
+ Atilla#8769's Balance before task: 64001
+ Atilla#8769's Balance after task: 64076
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 16:28:05 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character dressed up as their favorite character!
+ Atilla#8769's Balance before task: 64076
+ Atilla#8769's Balance after task: 64151
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 16:33:18 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character wearing something funny!
+ Atilla#8769's Balance before task: 64151
+ Atilla#8769's Balance after task: 64226
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 16:33:49 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character dressed up as their favorite character!
+ Atilla#8769's Balance before task: 64226
+ Atilla#8769's Balance after task: 64301
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 16:34:52 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character in a chibi style!
+ Atilla#8769's Balance before task: 64301
+ Atilla#8769's Balance after task: 64376
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 17:46:54 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Design a new character based on a candy!
+ Atilla#8769's Balance before task: 64376
+ Atilla#8769's Balance after task: 64451
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 19:08:11 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character in your favorite game!
+ Atilla#8769's Balance before task: 64451
+ Atilla#8769's Balance after task: 64526
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 19:08:40 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Design a new character based on a candy!
+ Atilla#8769's Balance before task: 64526
+ Atilla#8769's Balance after task: 64601
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 19:13:00 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character with your favorite animal!
+ Atilla#8769's Balance before task: 64601
+ Atilla#8769's Balance after task: 64676
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 20:05:16 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Design a new character based on an element!
+ Atilla#8769's Balance before task: 64676
+ Atilla#8769's Balance after task: 64751
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 20:07:24 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character with their favorite food!
+ Atilla#8769's Balance before task: 64751
+ Atilla#8769's Balance after task: 64826
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 21:45:24 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character in your favorite game!
+ Atilla#8769's Balance before task: 64826
+ Atilla#8769's Balance after task: 64901
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 21:49:32 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character being petted!
+ Atilla#8769's Balance before task: 64901
+ Atilla#8769's Balance after task: 64976
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 21:49:49 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character wearing something funny!
+ Atilla#8769's Balance before task: 64976
+ Atilla#8769's Balance after task: 65051
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 21:50:31 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character in a chibi style!
+ Atilla#8769's Balance before task: 65051
+ Atilla#8769's Balance after task: 65126
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 21:51:16 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character being a meme!
+ Atilla#8769's Balance before task: 65126
+ Atilla#8769's Balance after task: 65201
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 22:40:53 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character with their favorite candy!
+ Atilla#8769's Balance before task: 65201
+ Atilla#8769's Balance after task: 65276
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 23:22:11 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character being petted!
+ Atilla#8769's Balance before task: 65276
+ Atilla#8769's Balance after task: 65351
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 23:28:48 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character being a meme!
+ Atilla#8769's Balance before task: 65351
+ Atilla#8769's Balance after task: 65426
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 23:35:59 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character sleeping in an odd place!
+ Atilla#8769's Balance before task: 65426
+ Atilla#8769's Balance after task: 65501
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 23:38:43 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character chasing a laser dot!
+ Atilla#8769's Balance before task: 65501
+ Atilla#8769's Balance after task: 65576
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Thu Aug 22 2019 23:40:34 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw your character sleeping in an odd place!
+ Atilla#8769's Balance before task: 65576
+ Atilla#8769's Balance after task: 65651
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------

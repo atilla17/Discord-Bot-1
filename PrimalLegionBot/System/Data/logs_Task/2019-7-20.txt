@@ -1,0 +1,44 @@
+
+ ---------[Task]--------Tue Aug 20 2019 18:34:33 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task compleeted by: Atilla#8769 ID: 150104945788452864NaNAtilla#8769 ID: 150104945788452864NaNDraw a dog
+ Atilla#8769's Balance before task: 60200
+ Atilla#8769's Balance after task: 60300
+ File executed: markTaskDone.js
+
+ ---------[Task]--------Tue Aug 20 2019 18:51:53 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task compleeted by: Atilla#8769 ID: 150104945788452864NaNAtilla#8769 ID: 150104945788452864NaNDraw whitefang dabing
+ Atilla#8769's Balance before task: 60300
+ Atilla#8769's Balance after task: 60400
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Tue Aug 20 2019 18:52:25 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task compleeted by: Atilla#8769 ID: 150104945788452864NaNAtilla#8769 ID: 150104945788452864NaNnone
+ Atilla#8769's Balance before task: 60400
+ Atilla#8769's Balance after task: 60500
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Tue Aug 20 2019 18:52:25 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task compleeted by: Atilla#8769 ID: 150104945788452864NaNAtilla#8769 ID: 150104945788452864NaNDraw a cat
+ Atilla#8769's Balance before task: 60400
+ Atilla#8769's Balance after task: 60500
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Tue Aug 20 2019 18:53:19 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task compleeted by: Atilla#8769 ID: 150104945788452864NaNAtilla#8769 ID: 150104945788452864
+ Task compleeted: Draw a dog
+ Atilla#8769's Balance before task: 60500
+ Atilla#8769's Balance after task: 60600
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Tue Aug 20 2019 18:57:03 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task compleeted by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task compleeted: Draw a dog
+ Atilla#8769's Balance before task: 60600
+ Atilla#8769's Balance after task: 60700
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------

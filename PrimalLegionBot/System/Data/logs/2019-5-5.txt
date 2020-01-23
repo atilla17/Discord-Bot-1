@@ -1,0 +1,20 @@
+
+-----------------------Wed Jun 05 2019 23:41:43 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfSysSpawnPoints.js
+    Target user: Atilla#8769  ID: 150104945788452864
+    Account balance before command: 4861
+    Ammount Added:1
+    New Account balance: 4862
+    File updated: 150104945788452864.json
+    -----------------------END OF LOG ENTRY-----------------------
+
+-----------------------Wed Jun 05 2019 23:41:52 GMT-0400 (Eastern Daylight Time)-----------------------
+    Command issued by: Atilla#8769  ID: 150104945788452864
+    Command file executed: prfSysSpawnPoints.js
+    Target user: Atilla#8769  ID: 150104945788452864
+    Account balance before command: 4862
+    Ammount Added:21
+    New Account balance: 4883
+    File updated: 150104945788452864.json
+    -----------------------END OF LOG ENTRY-----------------------

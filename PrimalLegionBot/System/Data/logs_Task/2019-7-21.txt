@@ -1,0 +1,171 @@
+
+ ---------[Task]--------Wed Aug 21 2019 13:36:23 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task compleeted by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task compleeted: Draw whitefang dabing
+ Atilla#8769's Balance before task: 60700
+ Atilla#8769's Balance after task: 60800
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 13:39:25 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task compleeted by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task compleeted: Draw a cat
+ Atilla#8769's Balance before task: 60800
+ Atilla#8769's Balance after task: 60900
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 13:44:18 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task compleeted by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task compleeted: Draw a cat
+ Atilla#8769's Balance before task: 60900
+ Atilla#8769's Balance after task: 61000
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:03:20 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task compleeted by: white#2032 ID: 232974806591471617
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task compleeted: Draw whitefang dabing
+ white#2032's Balance before task: 2778.976758
+ white#2032's Balance after task: 2878.976758
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:21:19 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw whitefang dabing
+ Atilla#8769's Balance before task: 61000
+ Atilla#8769's Balance after task: 61100
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:23:52 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw a dog
+ Atilla#8769's Balance before task: 61100
+ Atilla#8769's Balance after task: 61200
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:24:18 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: none
+ Atilla#8769's Balance before task: 61200
+ Atilla#8769's Balance after task: 61300
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:24:39 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: none
+ Atilla#8769's Balance before task: 61300
+ Atilla#8769's Balance after task: 61400
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:25:03 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw whitefang dabing
+ Atilla#8769's Balance before task: 61400
+ Atilla#8769's Balance after task: 61500
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:27:38 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw a cat
+ Atilla#8769's Balance before task: 61500
+ Atilla#8769's Balance after task: 61600
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:29:38 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw whitefang dabing
+ Atilla#8769's Balance before task: 61601
+ Atilla#8769's Balance after task: 61701
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:30:28 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: white#2032 ID: 232974806591471617
+ Task checked by: white#2032 ID: 232974806591471617
+ Task completed: Draw whitefang dabing
+ white#2032's Balance before task: 2877.976758
+ white#2032's Balance after task: 2977.976758
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:30:42 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw whitefang dabing
+ Atilla#8769's Balance before task: 61701
+ Atilla#8769's Balance after task: 61801
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:31:39 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw a dog
+ Atilla#8769's Balance before task: 61801
+ Atilla#8769's Balance after task: 61901
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:31:43 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: white#2032 ID: 232974806591471617
+ Task checked by: white#2032 ID: 232974806591471617
+ Task completed: Draw a dog
+ white#2032's Balance before task: 2977.976758
+ white#2032's Balance after task: 3077.976758
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:35:07 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw a dog
+ Atilla#8769's Balance before task: 61901
+ Atilla#8769's Balance after task: 62001
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:40:55 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw a cat
+ Atilla#8769's Balance before task: 62001
+ Atilla#8769's Balance after task: 62101
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:41:37 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: Atilla#8769 ID: 150104945788452864
+ Task checked by: Atilla#8769 ID: 150104945788452864
+ Task completed: Draw whitefang dabing
+ Atilla#8769's Balance before task: 62101
+ Atilla#8769's Balance after task: 62201
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
+
+ ---------[Task]--------Wed Aug 21 2019 15:41:38 GMT-0400 (Eastern Daylight Time)--------------------------------
+ Task completed by: white#2032 ID: 232974806591471617
+ Task checked by: white#2032 ID: 232974806591471617
+ Task completed: Draw a dog
+ white#2032's Balance before task: 3077.976758
+ white#2032's Balance after task: 3177.976758
+ File executed: markTaskDone.js
+----------------------------END OF LOG -----------------------------------------------------
